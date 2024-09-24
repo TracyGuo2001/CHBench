@@ -27,7 +27,7 @@ Responses were generated using 5 Chinese language models, see below for details 
 
 ### Analysis of Similarity in Physical Health
 |                      | **Cosine Similarity**         |                                     | **Jaccard Similarity Coefficient**   |                                     |
-|----------------------|-------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+|:----------------------:|:-------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | **Similarity Interval** | **ChatGLM** | **Qwen** | **Baichuan** | **SparkDesk** | **ChatGLM** | **Qwen** | **Baichuan** | **SparkDesk** |
 | [0,0.1)              | 4           | 35       | -          | 7           | 5           | 38         | 50            | 20             |
 | [0.1,0.2)            | -           | -        | 1          | 1           | 42          | 88         | 269           | 188            |
