@@ -20,6 +20,8 @@ Responses were generated using 5 Chinese language models, see below for details 
 | ChatGLM   | api        | GLM-4           | Tsinghua & Zhipu |
 | SparkDesk | api        | Spark3.5 Max    | iFLYTEK       |
 
+<p align="center"> <img src="fig/model.jpg" style="width: 85%;" id="title-icon"></p>
+
 ### Key Findings
 - **ERNIE Bot** provided the best overall responses across the majority of prompts, so it is used as the **gold standard response**.
 - **Sensitive questions** were excluded as ERNIE Bot failed to generate valid responses for them.
