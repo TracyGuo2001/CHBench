@@ -1,4 +1,6 @@
 # CHBench
+<p align="center"> <img src="fig/logo.jpg" style="width: 85%;" id="title-icon"></p>
+
 <p align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center">
 📄 <a href="" target="_blank" style="margin-right: 15px; margin-left: 10px">Paper</a> • 
 🤗 <a href="" target="_blank" style="margin-left: 10px">Dataset</a> 
