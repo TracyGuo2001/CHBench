@@ -26,11 +26,11 @@ Responses were generated using 5 Chinese language models, see below for details 
 | SparkDesk | api        | Spark3.5 Max    | iFLYTEK       |
 
 
-
 ### Key Findings
 - **ERNIE Bot** provided the best overall responses across the majority of prompts, so it is used as the **gold standard response**.
 - **Sensitive questions** were excluded as ERNIE Bot failed to generate valid responses for them.
 - **Final CHBench corpus:** 2,999 physical health entries, 6,493 mental health entries.
+⚠️ Caution: This content may include model outputs that could be perceived as offensive.
 
 ### Analysis of Similarity in Physical Health
 
