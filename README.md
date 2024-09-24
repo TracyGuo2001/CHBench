@@ -44,6 +44,8 @@ Responses were generated using 5 Chinese language models, see below for details 
 
 *Table: Similarity of physical health responses to gold standard responses across models*
 
+<p align="center"> <img src="fig/physicalSim.jpg" style="width: 85%;" id="title-icon"></p>
+
 ChatGLM shows the best performance with the highest similarity to gold-standard responses. Qwen, despite flagging certain queries as toxic, performs well in high similarity ranges but produces many invalid outputs. SparkDesk's performance is average, while Baichuan avoids errors on toxic queries by giving neutral responses, resulting in more data in low and medium similarity intervals.
 
 
@@ -64,6 +66,8 @@ ChatGLM shows the best performance with the highest similarity to gold-standard 
 | [0.9,1)              | 133         | 104      | 46         | 176         | -           | -          | -             | -              |
 
 *Table: Similarity of mental health responses to gold standard responses across models*
+
+<p align="center"> <img src="fig/mentalSim.jpg" style="width: 85%;" id="title-icon"></p>
 
 SparkDesk shows the best performance with most responses in the high similarity range, though it lacks understanding of some public posts and acronyms. ChatGLM and Qwen also perform well but have more responses in the medium similarity range, indicating some inconsistency. Qwen is more sensitive to data, often flagging content as toxic. Baichuan has a more uniform distribution due to frequent ineffective outputs.
 
