@@ -9,7 +9,7 @@ Code and data of paper "CHBench: A Chinese Dataset for Evaluating Health in Larg
 ## Overview
 we present CHBench, the first comprehensive Chinese Health-related Benchmark designed to evaluate LLMs' capabilities in understanding physical and mental health across diverse scenarios. CHBench includes 6,493 entries related to mental health and 2,999 entries focused on physical health, covering a broad spectrum of topics.
 The collectiong steps are outlined below.
-<p align="center"> <img src="fig/creationProcess.pdf" style="width: 85%;" id="title-icon"></p>
+<p align="center"> <img src="fig/creationProcess.jpg" style="width: 85%;" id="title-icon"></p>
 
 
 ## Response Assessment
